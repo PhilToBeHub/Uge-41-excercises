@@ -27,7 +27,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -64,7 +64,9 @@
       <updated>1602069572974</updated>
       <workItem from="1602069574041" duration="2199000" />
       <workItem from="1602087202106" duration="34000" />
-      <workItem from="1602098631582" duration="3004000" />
+      <workItem from="1602098631582" duration="3606000" />
+      <workItem from="1602144921536" duration="2211000" />
+      <workItem from="1602156862285" duration="2671000" />
     </task>
     <servers />
   </component>
@@ -76,29 +78,43 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602072715326" />
-    <state x="739" y="261" key="FileChooserDialogImpl" timestamp="1602087233065">
+    <state x="739" y="261" key="FileChooserDialogImpl" timestamp="1602158632715">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="739" y="261" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602087233065" />
-    <state width="1877" height="150" key="GridCell.Tab.0.bottom" timestamp="1602099904046">
+    <state x="739" y="261" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602158632715" />
+    <state width="1877" height="156" key="GridCell.Tab.0.bottom" timestamp="1602159554819">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="150" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602099904046" />
-    <state width="1877" height="150" key="GridCell.Tab.0.center" timestamp="1602099904046">
+    <state width="1877" height="156" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602159554819" />
+    <state width="1877" height="156" key="GridCell.Tab.0.center" timestamp="1602159554819">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="150" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602099904046" />
-    <state width="1877" height="150" key="GridCell.Tab.0.left" timestamp="1602099904046">
+    <state width="1877" height="156" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602159554819" />
+    <state width="1877" height="156" key="GridCell.Tab.0.left" timestamp="1602159554819">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="150" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602099904046" />
-    <state width="1877" height="150" key="GridCell.Tab.0.right" timestamp="1602099904046">
+    <state width="1877" height="156" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602159554819" />
+    <state width="1877" height="156" key="GridCell.Tab.0.right" timestamp="1602159554819">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="150" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602099904046" />
+    <state width="1877" height="156" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602159554819" />
+    <state x="470" y="256" width="979" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1602145730391">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="470" y="256" width="979" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602145730391" />
     <state x="342" y="140" key="new project wizard" timestamp="1602069658000">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="342" y="140" key="new project wizard/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602069658000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

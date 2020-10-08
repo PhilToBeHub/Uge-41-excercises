@@ -1,5 +1,19 @@
+import java.util.ArrayList;
+
 public class Main {
     public static void main(String[] args) {
+
+        Zoo myZoo = new Zoo();
+        Peacock peacock = new Peacock(2);
+        Elephant elephant = new Elephant(4);
+        Dolphin dolphin = new Dolphin(0);
+
+        myZoo.addAnimal(peacock);
+        myZoo.addAnimal(elephant);
+        myZoo.addAnimal(dolphin);
+
+        myZoo.makeAllSounds();
+        myZoo.printNumberOfLegs();
 
     }
 }

@@ -9,25 +9,29 @@ public class Main {
         Room room3 = new Room(12,2,8,13);
 
         // 2.h
+        Room[] rooms = new Room[] {room1, room2, room3};
+
+        /*
         ArrayList<Room> rooms = new ArrayList<Room>();
         rooms.add(room1);
         rooms.add(room2);
-        rooms.add(room3);
+        rooms.add(room3);*/
 
         // 2.i
         Building building = new Building(56,12,4,true);
 
         // 2.j
         int sum = 0;
-        for (int i = 0; i < rooms.size(); i++) {
-            //sum = sum + rooms[i].getNumberOfLamps();
+        for (int i = 0; i < rooms.length; i++) {
+            sum = sum + rooms[i].getNumberOfLamps();
         }
-        room1.getNumberOfLamps();
+        System.out.println("Number of lamps  in the entire building: " + sum);
+
 
 
         // 2.k
         //building.setNumberOfFloors(4);
-        System.out.println(building.getNumberOfFloors());
+        System.out.println("Number of floors in the building: " + building.getNumberOfFloors());
 
         if (building.getNumberOfFloors() > building.getRooms()) {
             System.out.println("This is an odd building");
